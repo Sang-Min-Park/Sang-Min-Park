@@ -6,8 +6,7 @@
 <h2>💡 About Me</h2>
 
 - 🎓 B.S. in Electronic & Electrical Engineering, Chung-Ang University (Seoul, Korea)  
-- 🧠
-- 3.5+ years of experience in ASIC RTL design and verification at LX Semicon (formerly LG Silicon Works)  
+- 🧠 3.5+ years of experience in ASIC RTL design and verification at LX Semicon (formerly LG Silicon Works)  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
 - 🧩 Proficient in Verilog, with hands-on ATE validation  
 - 🌎 Aspiring graduate student in **Soc Design and Hardware Acceleration**  
@@ -45,7 +44,5 @@
 <h2>🤝 Connect with Me</h2>
 
 [<img align="left" alt="Sang Min Park | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Sang Min Park | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/sang-min-park-b13245319/ 
-[email]: mailto:foxysp123@naver.com
