@@ -5,12 +5,12 @@
 
 <h2>💡 About Me</h2>
 
-- 🎓 B.S. in Electronic & Electrical Engineering, Chung-Ang University (Seoul, Korea)  
-- 🧠 3.5+ years of experience in ASIC RTL design and verification at LX Semicon (formerly LG Silicon Works)  
+- 🎓 B.S. in Electronic & Electrical Engineering, **Chung-Ang University (Seoul, Korea)**  
+- 🧠 3.5+ years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
 - 🧩 Proficient in Verilog, with hands-on ATE validation  
-- 🌎 Aspiring graduate student in **Soc Design and Hardware Acceleration**  
-- 🛠 Interested in **RTL-to-Silicon prototyping, low-power ASIC systems, and many-core accelerator design**
+- 🌎 Aspiring graduate student in **SoC Design and Hardware Acceleration**  
+- 🛠 Interested in **Many-core accelerator design, low-power ASIC systems, and RTL-to-Silicon prototyping**
 
 ---
 
@@ -19,9 +19,12 @@
 - **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with  
   brightness/temperature adaptation and Contrast/Offset/Dither/APL/Peak features (DDIC ASIC)  
 - **OTP(One Time Programmable) Memory Controller IP** — Implemented program/load control for reliable NVM operation,  
-  validated through ATE vector testing  
+  validated through ATE vector testing and silicon bring-up.  
 - **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis  
-- **System Integration & Verification** — Multi-clock domain STA closure, MIPI(Mobile Industry Processor Interface) CTS(Compliance Test Suite) test, HTOL reliability testing
+- **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**, gaining  
+  **system-level insight** from pixel input to output.  
+  Collaborated with system, test, and physical desgin teams for silicon validation,  
+  MIPI (Mobile Industry Processor Interface) CTS compliance testing, and HTOL reliability verification, contributing to final product qualification.
 
 ---
 
@@ -35,7 +38,7 @@
 
 <h2>🌱 Currently Exploring</h2>
 
-- Many-core architecture simulation frameworks (e.g., BlackParrot / HammerBlade)  
+- Many-core architecture simulation frameworks 
 - AI accelerator SoC design and RTL-level prototyping  
 - EDA automation using Python and Open-source flows  
 
