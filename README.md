@@ -17,13 +17,13 @@
 <h2>🏗 Highlighted Hardware Projects</h2>
 
 - **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with  
-  brightness/temperature adaptation and Contrast/Offset/Dither/APL/Peak features (DDIC ASIC)  
+  brightness/temperature adaptation and Contrast/Offset/Dither/APL(Average Pixel Level)/Peak features (DDIC ASIC)  
 - **OTP(One Time Programmable) Memory Controller IP** — Implemented program/load control for reliable NVM operation,  
   validated through ATE vector testing and silicon bring-up.  
 - **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis  
 - **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**, gaining  
   **system-level insight** from pixel input to output.  
-  Collaborated with system, test, and physical desgin teams for silicon validation,  
+  Collaborated with system engineering, test, and physical desgin teams for silicon validation,  
   MIPI (Mobile Industry Processor Interface) CTS compliance testing, and HTOL reliability verification, contributing to final product qualification.
 
 ---
