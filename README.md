@@ -36,13 +36,47 @@
 
 ---
 
+<h2>🏆 Academic Highlights</h2>
+
+- **GPA:** 4.05 / 4.5 (≈ 95.5 / 100) — *Magna Cum Laude*  
+- **Scholarship:** Academic Excellence Scholarship (Fall 2018)  
+
+---
+<h2>🗣️ Language Proficiency</h2>
+
+- **English:** TOEFL iBT 109 / 120 (R30 · L30 · S24 · W25)  
+- **Korean:** Native  
+- **Japanese:** JLPT N4 (Basic)
+---
+
+<h2>📚 Relevant Coursework</h2>
+
+- Digital System Design (A+)  
+- ASIC Design (A+)  
+- Computer Architecture (A)  
+- Operating Systems (A+)  
+- Data Structures (A+)  
+- Microcomputer Systems (A+)
+- MICROPROCESSOR APPLICATION CIRCUITS DESIGN LAВ A+
+- Analog & Digital Circuits Design Lab (A+)
+- ELECTRIC CIRCUITS DESIGN LAВ (A+)
+- Circuit Theory (A)
+- CIRCUITS & SYSTEM (A+)
+- Object-Oriented Programming (A+)  
+- Algorithms (A)  
+- Artificial Intelligence (A+)
+- BASIC COMPUTER PROGRAMMING (A)
+- DESIGN PROJECTS (CAPSTONE DESIGN) A+ 
+
+---
+
 <h2>🌱 Currently Exploring</h2>
 
 - Many-core architecture simulation frameworks 
 - AI accelerator SoC design and RTL-level prototyping  
 - EDA automation using Python and Open-source flows  
 
----
+
 
 <h2>🤝 Connect with Me</h2>
 
