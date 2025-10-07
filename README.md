@@ -24,7 +24,7 @@
 - **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**, gaining  
   **system-level insight** from pixel input to output.  
   Collaborated with system engineering, test, and physical desgin teams for silicon validation,  
-  MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement, and HTOL reliability verification, contributing to final product qualification.
+  MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement, and HTOL(Hot Temperature Operation Life) reliability verification, contributing to final product qualification.
 
 ---
 
