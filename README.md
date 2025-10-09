@@ -57,16 +57,16 @@
 - Operating Systems (A+)  
 - Data Structures (A+)  
 - Microcomputer Systems (A+)
-- MICROPROCESSOR APPLICATION CIRCUITS DESIGN LAВ A+
+- Microprocessor Application Circuits Design Lab A+
 - Analog & Digital Circuits Design Lab (A+)
-- ELECTRIC CIRCUITS DESIGN LAВ (A+)
+- Electric Circuits Design Lab (A+)
 - Circuit Theory (A)
-- CIRCUITS & SYSTEM (A+)
+- Circuits & System (A+)
 - Object-Oriented Programming (A+)  
 - Algorithms (A)  
 - Artificial Intelligence (A+)
-- BASIC COMPUTER PROGRAMMING (A)
-- DESIGN PROJECTS (CAPSTONE DESIGN) A+ 
+- Basic Computer Programming (A)
+- Design Projects (Capstone Design) A+ 
 
 ---
 
