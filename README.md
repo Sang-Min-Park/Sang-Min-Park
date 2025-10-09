@@ -93,3 +93,5 @@
 [<img align="left" alt="Sang Min Park | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 [linkedin]: https://www.linkedin.com/in/sang-min-park-b13245319/ 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sang%20Min%20Park-blue?logo=linkedin)](https://www.linkedin.com/in/sang-min-park-b13245319/)
