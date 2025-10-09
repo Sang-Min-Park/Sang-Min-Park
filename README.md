@@ -71,6 +71,7 @@
 ---
 
 <h2>🎓 Extracurricular Activity</h2>
+
 - Education Volunteer for Underprivileged Students — Provided tutoring in math and English to elementary and middle school students from low-income families, aiming to improve academic confidence and motivation.  
 
 ---
