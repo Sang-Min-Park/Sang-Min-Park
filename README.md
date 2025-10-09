@@ -70,6 +70,11 @@
 
 ---
 
+<h2>🎓 Extracurricular Activity</h2>
+- Education Volunteer for Underprivileged Students — Provided regular tutoring in math and English to elementary and middle school students from low-income families, aiming to improve academic confidence and motivation.  
+
+---
+
 <h2>🌱 Currently Exploring</h2>
 
 - Many-core architecture simulation frameworks 
