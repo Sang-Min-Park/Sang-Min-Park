@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sang Min Park! 👋<br/>
+<h1>Hello, I'm Sang Min Park! 👋<br/>
 <a href="https://github.com/foxysp123">ASIC RTL Designer</a></h1>
 
 ---
