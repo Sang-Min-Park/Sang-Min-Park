@@ -18,7 +18,7 @@
 - Manycore and heterogeneous SoC architectures  
 - AI accelerators and domain-specific computing  
 - Hardware–software co-design for performance and energy optimization  
-- Design space exploration (DSE) and architectural evaluation frameworks  
+- Design space exploration (DSE) and architecture evaluation frameworks  
 - Network-on-Chip (NoC) and interconnect optimization  
 - FPGA-based prototyping and RTL-to-silicon implementation  
 - High-Level Synthesis (HLS) and automated hardware design flows  
@@ -34,7 +34,7 @@
 - **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis  
 - **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**, gaining  
   **system-level insight** from pixel input to output.  
-  Collaborated with system engineering, test, and physical desgin teams for silicon validation,  
+  Collaborated with system engineering, test, and physical design teams for silicon validation,  
   MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement, and HTOL(Hot Temperature Operation Life) reliability verification, contributing to final product qualification.
 
 ---
@@ -58,6 +58,7 @@
 - **English:** TOEFL iBT 109 / 120 (R30 · L30 · S24 · W25)  
 - **Korean:** Native  
 - **Japanese:** JLPT N4 (Basic)
+ 
 ---
 
 <h2>📚 Relevant Coursework</h2>
