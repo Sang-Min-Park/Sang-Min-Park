@@ -9,8 +9,19 @@
 - 🧠 3.5+ years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
 - 🧩 Proficient in Verilog, with hands-on ATE validation  
-- 🌎 Aspiring graduate student in **SoC Design and Hardware Acceleration**  
-- 🛠 Interested in **Many-core accelerator design, low-power ASIC systems, and RTL-to-Silicon prototyping**
+- 🌎 Aspiring graduate student in **SoC Design**  
+
+---
+
+<h2>🌱 Research Interests</h2>
+
+- Manycore and heterogeneous SoC architectures  
+- AI accelerators and domain-specific computing  
+- Hardware–software co-design for performance and energy optimization  
+- Design space exploration (DSE) and architectural evaluation frameworks  
+- Network-on-Chip (NoC) and interconnect optimization  
+- FPGA-based prototyping and RTL-to-silicon implementation  
+- High-Level Synthesis (HLS) and automated hardware design flows  
 
 ---
 
@@ -75,16 +86,6 @@
 - Education Volunteer for Underprivileged Students — Provided tutoring in math and English to elementary and middle school students from low-income families, aiming to improve academic confidence and motivation.  
 
 ---
-
-<h2>🌱 Research Interests</h2>
-
-- Manycore and heterogeneous SoC architectures  
-- AI accelerators and domain-specific computing  
-- Hardware–software co-design for performance and energy optimization  
-- Design space exploration (DSE) and architectural evaluation frameworks  
-- Network-on-Chip (NoC) and interconnect optimization  
-- FPGA-based prototyping and RTL-to-silicon implementation  
-- High-Level Synthesis (HLS) and automated hardware design flows  
 
 <h2>🤝 Connect with Me</h2>
 
