@@ -77,12 +77,13 @@
 
 <h2>🌱 Research Interests</h2>
 
-- Manycore and heterogeneous SoC architecture  
-- AI accelerator  
-- HLS
-- Hardware & Software co-desgn
-- Heterogenous soc
-- NoC, SoC architecture
+- Manycore and heterogeneous SoC architectures  
+- AI accelerators and domain-specific computing  
+- Hardware–software co-design for performance and energy optimization  
+- Design space exploration (DSE) and architectural evaluation frameworks  
+- Network-on-Chip (NoC) and interconnect optimization  
+- FPGA-based prototyping and RTL-to-silicon implementation  
+- High-Level Synthesis (HLS) and automated hardware design flows  
 
 <h2>🤝 Connect with Me</h2>
 
