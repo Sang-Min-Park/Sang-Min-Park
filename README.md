@@ -57,7 +57,7 @@
 - Operating Systems (A+)  
 - Data Structures (A+)  
 - Microcomputer Systems (A+)
-- Microprocessor Application Circuits Design Lab A+
+- Microprocessor Application Circuits Design Lab (A+)
 - Analog & Digital Circuits Design Lab (A+)
 - Electric Circuits Design Lab (A+)
 - Circuit Theory (A)
@@ -75,13 +75,14 @@
 
 ---
 
-<h2>🌱 Currently Exploring</h2>
+<h2>🌱 Research Interests</h2>
 
-- Many-core architecture simulation frameworks 
-- AI accelerator SoC design and RTL-level prototyping  
-- EDA automation using Python and Open-source flows  
-
-
+- Manycore and heterogeneous SoC architecture  
+- AI accelerator  
+- HLS
+- Hardware & Software co-desgn
+- Heterogenous soc
+- NoC, SoC architecture
 
 <h2>🤝 Connect with Me</h2>
 
