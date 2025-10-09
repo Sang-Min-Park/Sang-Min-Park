@@ -9,7 +9,7 @@
 - 🧠 3.5+ years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
 - 🧩 Proficient in Verilog, with hands-on ATE validation  
-- 🌎 Aspiring graduate student in **SoC Design**  
+- 🌎 Aspiring graduate student in **SoC Design and Hardware Architecture**  
 
 ---
 
