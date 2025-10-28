@@ -79,7 +79,7 @@
 - Algorithms (A)  
 - Artificial Intelligence (A+)
 - Basic Computer Programming (A)
-- Design Projects (Capstone Design) A+ 
+- Design Projects (Capstone Design) (A+) 
 
 ---
 
