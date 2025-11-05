@@ -19,7 +19,8 @@
 - Manycore and heterogeneous SoC architectures  
 - AI accelerators and domain-specific computing  
 - Hardware–software co-design for performance and energy optimization  
-- Design space exploration (DSE) and architecture evaluation frameworks  
+- Design space exploration (DSE) and architecture evaluation frameworks
+- Near-Data-Memory architectures for data-centric workloads  
 - Network-on-Chip (NoC) and interconnect optimization  
 - FPGA-based prototyping and RTL-to-silicon implementation  
 - High-Level Synthesis (HLS) and automated hardware design flows  
