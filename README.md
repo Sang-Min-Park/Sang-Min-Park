@@ -6,7 +6,7 @@
 <h2>💡 About Me</h2>
 
 - 🎓 B.S. in Electronic & Electrical Engineering, **Chung-Ang University (Seoul, Korea)**  
-- 🧠 3.5+ years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
+- 🧠 4 years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
 - 🧩 Proficient in Verilog, with hands-on ATE validation  
 - 💼 Aspiring graduate student in **SoC Design and Hardware Architecture**  
