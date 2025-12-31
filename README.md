@@ -8,7 +8,7 @@
 - 🎓 B.S. in Electronic & Electrical Engineering, **Chung-Ang University (Seoul, Korea)**  
 - 🧠 4 years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
-- 🧩 Proficient in Verilog, with hands-on ATE validation  
+- 🧩 Proficient in Verilog, with hands-on experience in wafer-level ATE(Automatic Test Equipment) validation.
 - 💼 Aspiring graduate student in **SoC Design and Computer Architecture**  
 - 🌏 Spent a year of my childhood in the U.S., which gave me early exposure to different cultures.
 
@@ -38,7 +38,8 @@
 - **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**,
   gaining **system-level insight** from pixel input to output.  
   Collaborated with system engineering, test, and physical design teams for silicon validation,  
-  MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement, and HTOL(Hot Temperature Operation Life) reliability verification, contributing to final product qualification.
+  MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement,
+  and HTOL(Hot Temperature Operation Life) reliability verification, contributing to final product qualification.
 
 ---
 
