@@ -9,7 +9,7 @@
 - 🧠 4 years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
 - 🔍 Specialized in **Display Driver IC (DDIC)** 
 - 🧩 Proficient in Verilog, with hands-on ATE validation  
-- 💼 Aspiring graduate student in **SoC Design and Hardware Architecture**  
+- 💼 Aspiring graduate student in **SoC Design and Computer Architecture**  
 - 🌏 Spent a year of my childhood in the U.S., which gave me early exposure to different cultures.
 
 ---
@@ -23,7 +23,8 @@
 - Near-Data-Memory architectures for data-centric workloads  
 - Network-on-Chip (NoC) and interconnect optimization  
 - FPGA-based prototyping and RTL-to-silicon implementation  
-- High-Level Synthesis (HLS) and automated hardware design flows  
+- High-Level Synthesis (HLS) and automated hardware design flows
+- Architectural support for secure and reliable computing systems
 
 ---
 
@@ -85,9 +86,9 @@
 
 <h2>🎓 Extracurricular Activity</h2>
 
-- Education Outreach Program — Volunteer Tutor (Math & English): Provided one-on-one math and English tutoring to elementary and middle school students from low-income families, improving academic confidence and motivation.
-- Rural Community Service — Volunteer: Assisted with farm work and maintenance of senior centers and community facilities, supporting elderly residents in rural communities.
-- Lotus Lantern Festival (Yeon Deung Hoe, UNESCO Intangible Cultural Heritage) — Volunteer: Supported parade and traditional program operations for the UNESCO-listed Lotus Lantern Festival in a multicultural volunteer team.
+- Education Outreach Program — Volunteer Tutor (Math & English) (May–June 2018): Provided one-on-one math and English tutoring to elementary and middle school students from low-income families, improving academic confidence and motivation.
+- Rural Community Service — Volunteer (Jan–Feb 2017): Assisted with farm work and maintenance of senior centers and community facilities, supporting elderly residents in rural communities.
+- Lotus Lantern Festival (Yeon Deung Hoe, UNESCO Intangible Cultural Heritage) — Volunteer (Apr 2016): Supported parade and traditional program operations for the UNESCO-listed Lotus Lantern Festival in a multicultural volunteer team.
   
 ---
 
