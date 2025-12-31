@@ -34,8 +34,7 @@
 - **OTP(One Time Programmable) Memory Controller IP** — Implemented program/load control for reliable NVM operation,  
   validated through ATE vector testing and silicon bring-up.  
 - **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis  
-- **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**, gaining  
-  **system-level insight** from pixel input to output.  
+- **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**, gaining **system-level insight** from pixel input to output.  
   Collaborated with system engineering, test, and physical design teams for silicon validation,  
   MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement, and HTOL(Hot Temperature Operation Life) reliability verification, contributing to final product qualification.
 
@@ -86,8 +85,10 @@
 
 <h2>🎓 Extracurricular Activity</h2>
 
-- Education Volunteer for Underprivileged Students — Provided tutoring in math and English to elementary and middle school students from low-income families, aiming to improve academic confidence and motivation.  
-
+- Education Outreach Program — Volunteer Tutor (Math & English): Provided one-on-one math and English tutoring to elementary and middle school students from low-income families, improving academic confidence and motivation.
+- Rural Community Service — Volunteer: Assisted with farm work and maintenance of senior centers and community facilities, supporting elderly residents in rural communities.
+- Lotus Lantern Festival (Yeon Deung Hoe, UNESCO Intangible Cultural Heritage) — Volunteer: Supported parade and traditional program operations for the UNESCO-listed Lotus Lantern Festival in a multicultural volunteer team.
+  
 ---
 
 <h2>🤝 Connect with Me</h2>
