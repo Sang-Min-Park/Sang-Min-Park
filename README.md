@@ -51,8 +51,7 @@
 
 <h2>🏆 Academic Highlights</h2>
 
-- **GPA:** 4.05 / 4.5 (≈ 95.5 / 100) — *Magna Cum Laude*
-- (Scholaro US GPA equivalent: 3.77 / 4.0, cumulative)  
+- **GPA:** 4.05 / 4.5 (≈ 95.5 / 100) — *Magna Cum Laude*, (Scholaro US GPA equivalent: 3.77 / 4.0, cumulative)  
 - **Scholarship:** Academic Excellence Scholarship (Fall 2018)  
 
 ---
