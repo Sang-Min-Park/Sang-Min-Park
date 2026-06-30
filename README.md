@@ -4,7 +4,6 @@
 <p>
 Building on ASIC RTL implementation experience to explore computer architecture, SoC design, and hardware–software co-design.
 </p>
----
 
 <h2>💡 About Me</h2>
 
