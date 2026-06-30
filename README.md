@@ -1,6 +1,9 @@
 <h1>Hello, I'm Sang Min Park! 👋<br/>
 <a href="https://github.com/foxysp123">Incoming M.S. ECE Student @ Georgia Tech | ASIC RTL Designer</a></h1>
 
+<p>
+Building on ASIC RTL implementation experience to explore computer architecture, SoC design, and hardware–software co-design.
+</p>
 ---
 
 <h2>💡 About Me</h2>
@@ -43,7 +46,7 @@
 <h2>💻 Technical Skills</h2>
 
 - **Languages:** Verilog, SystemVerilog, Python, C/C++  
-- **Tools:** Cadence Xcelium, Synopsys VCS, Design Compiler, PTPX    
+- **Tools:** Cadence Xcelium, Synopsys VCS, Synopsys Design Compiler, Synopsys PrimeTime PX    
 - **Domains:** ASIC Design & Verification, Power Optimization, Multi-Clock Domain Design, ATE Testing  
 
 ---
