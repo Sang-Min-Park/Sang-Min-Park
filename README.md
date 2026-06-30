@@ -5,6 +5,8 @@
 Building on ASIC RTL implementation experience to explore computer architecture, SoC design, and hardware–software co-design.
 </p>
 
+---
+
 <h2>💡 About Me</h2>
 
 - 🎓 Incoming M.S. student in Electrical and Computer Engineering at **Georgia Institute of Technology**
@@ -47,6 +49,8 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 - **Graduate School of Convergence Science and Technology, Seoul National University — Research Intern**  
   *(Jan 2021 – Feb 2021)*  
   Studied electronic circuit design and designed a two-stage operational amplifier using HSPICE.
+
+---
 
 <h2>💻 Technical Skills</h2>
 
