@@ -46,7 +46,7 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 
 <h2>🔬 Internship Experience</h2>
 
-- **Graduate School of Convergence Science and Technology, Seoul National University — Research Intern**  
+- **Graduate School of Convergence Science and Technology, Seoul National University **  
   *(Jan 2021 – Feb 2021)*  
   Studied electronic circuit design and designed a two-stage operational amplifier using HSPICE.
 
