@@ -8,9 +8,9 @@
 - 🎓 Incoming M.S. student in Electrical and Computer Engineering at **Georgia Institute of Technology**
 - 🎓 B.S. in Electronic & Electrical Engineering, **Chung-Ang University (Seoul, Korea)**
 - 🧠 4+ years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**
-- 🔍 Specialized in **Display Driver IC (DDIC)** design, verification, and silicon bring-up
-- 🧩 Proficient in Verilog/SystemVerilog, with hands-on experience in wafer-level ATE validation
-- 💼 Interested in **SoC design, computer architecture, AI accelerators, and hardware–software co-design**
+- 🔍 Specialized in **Display Driver IC (DDIC)** design, verification, silicon bring-up, and wafer-level ATE validation
+- 🧩 Experienced in Verilog/SystemVerilog, Python, multi-clock RTL design, power optimization, and silicon validation
+
 ---
 
 <h2>🌱 Research Interests</h2>
@@ -26,17 +26,18 @@
 
 <h2>🏗 Highlighted Hardware Projects</h2>
 
-- **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with  
-  brightness/temperature adaptation and Contrast/Offset/Dither/APL(Average Pixel Level)/Peak features (DDIC ASIC)  
-- **OTP(One Time Programmable) Memory Controller IP** — Implemented program/load control for reliable NVM operation,  
-  validated through ATE vector testing and silicon bring-up.  
-- **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis  
-- **System & Verification** — Performed **end-to-end RTL verification across the full DDIC datapath**,<br>
-  gaining **system-level insight** from pixel input to output.  
-- Collaborated with system engineering, test, and physical design teams for silicon validation,<br> 
-  MIPI (Mobile Industry Processor Interface) CTS compliance testing, current measurement,<br>
-  and HTOL(Hot Temperature Operation Life) reliability verification, contributing to final product qualification.
+- **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with brightness/temperature adaptation and Contrast/Offset/Dither/APL/Peak features for DDIC ASICs; developed Python reference models and cross-checked RTL behavior against model outputs
 
+- **OTP Memory Controller IP** — Implemented program/load control for reliable NVM operation and validated functionality across multiple operating corners through ATE vector testing and silicon bring-up
+
+- **Automotive Safety IP** — Designed safety-monitoring RTL for a cascade-chip, ARM Cortex-M3–based TDDI product, detecting abnormal conditions and generating interrupts for firmware-level handling; also implemented basic firmware-side interrupt handling for validation
+
+- **Analog IP Control Logic** — Developed RTL control logic for analog IPs with configurable line- and frame-based amplifier switching modes
+
+- **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis, and correlated RTL-level estimates with wafer-level and bench-level power measurements
+
+- **System-Level Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath and collaborated with system, test, and physical design teams on silicon bring-up, MIPI high-speed data interface CTS compliance testing, current measurement, HTOL reliability verification, and final product qualification
+추가로 생각해볼 만한 개선점
 ---
 
 <h2>💻 Technical Skills</h2>
