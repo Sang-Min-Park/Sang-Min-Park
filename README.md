@@ -40,12 +40,13 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 
 - **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed Synopsys PrimeTime PX power analysis, and correlated RTL-level estimates with wafer-level and bench-level power measurements
 
-- **System-Level Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath using CRC-based checking, and collaborated with system, test, and physical design teams on silicon bring-up, MIPI high-speed data interface compliance testing, current measurement, and HTOL (Hot Temperature Operation Life) reliability verification
+- **System-Level Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath using CRC-based checking, and collaborated with system, test, and interface teams on silicon bring-up, MIPI high-speed data interface compliance testing, current measurement, and HTOL (Hot Temperature Operation Life) reliability testing
+
 ---
 
 <h2>🔬 Internship Experience</h2>
 
-- **Graduate School of Convergence Science and Technology, Seoul National University **  
+- **Graduate School of Convergence Science and Technology, Seoul National University — Research Intern**  
   *(Jan 2021 – Feb 2021)*  
   Studied electronic circuit design and designed a two-stage operational amplifier using HSPICE.
 
