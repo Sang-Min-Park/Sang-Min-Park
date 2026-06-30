@@ -1,17 +1,16 @@
 <h1>Hello, I'm Sang Min Park! 👋<br/>
-<a href="https://github.com/foxysp123">ASIC RTL Designer</a></h1>
+<a href="https://github.com/foxysp123">Incoming M.S. ECE Student @ Georgia Tech | ASIC RTL Designer</a></h1>
 
 ---
 
 <h2>💡 About Me</h2>
 
-- 🎓 B.S. in Electronic & Electrical Engineering, **Chung-Ang University (Seoul, Korea)**  
-- 🧠 4 years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**  
-- 🔍 Specialized in **Display Driver IC (DDIC)** 
-- 🧩 Proficient in Verilog, with hands-on experience in wafer-level ATE(Automatic Test Equipment) validation.
-- 💼 Aspiring graduate student in **SoC Design and Computer Architecture**  
-- 🌏 Spent a year of my childhood in the U.S., which gave me early exposure to different cultures.
-
+- 🎓 Incoming M.S. student in Electrical and Computer Engineering at **Georgia Institute of Technology**
+- 🎓 B.S. in Electronic & Electrical Engineering, **Chung-Ang University (Seoul, Korea)**
+- 🧠 4+ years of experience in ASIC RTL design and verification at **LX Semicon (formerly LG Silicon Works)**
+- 🔍 Specialized in **Display Driver IC (DDIC)** design, verification, and silicon bring-up
+- 🧩 Proficient in Verilog/SystemVerilog, with hands-on experience in wafer-level ATE validation
+- 💼 Interested in **SoC design, computer architecture, AI accelerators, and hardware–software co-design**
 ---
 
 <h2>🌱 Research Interests</h2>
