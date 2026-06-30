@@ -15,15 +15,12 @@
 
 <h2>🌱 Research Interests</h2>
 
-- Manycore and heterogeneous SoC architectures  
-- AI accelerators and domain-specific computing  
-- Hardware–software co-design for performance and energy optimization  
-- Design space exploration (DSE) and architecture evaluation frameworks
-- Near-Data-Memory architectures for data-centric workloads  
-- Network-on-Chip (NoC) and interconnect optimization  
-- FPGA-based prototyping and RTL-to-silicon implementation  
-- High-Level Synthesis (HLS) and automated hardware design flows
-- Architectural support for secure and reliable computing systems
+- Computer architecture for AI and data-centric workloads
+- AI accelerators and domain-specific computing
+- Hardware–software co-design for performance and energy efficiency
+- Design space exploration and architecture evaluation frameworks
+- NoC, memory hierarchy, and data movement optimization
+- FPGA/HLS-based accelerator design and prototyping
 
 ---
 
