@@ -42,6 +42,12 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 추가로 생각해볼 만한 개선점
 ---
 
+<h2>🔬 Internship Experience</h2>
+
+- **Graduate School of Convergence Science and Technology, Seoul National University — Research Intern**  
+  *(Jan 2021 – Feb 2021)*  
+  Studied electronic circuit design and designed a two-stage operational amplifier using HSPICE.
+
 <h2>💻 Technical Skills</h2>
 
 - **Languages:** Verilog, SystemVerilog, Python, C/C++  
@@ -59,8 +65,8 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 ---
 <h2>🗣️ Language Proficiency</h2>
 
-- **English:** TOEFL iBT 109 / 120 (R30 · L30 · S24 · W25)  
-- **Korean:** Native  
+- **English:** TOEFL iBT 109/120 (Reading 30 | Listening 30 | Speaking 24 | Writing 25)
+- **Korean:** Native
 - **Japanese:** JLPT N4 (Basic)
  
 ---
