@@ -32,13 +32,19 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 
 My industry background spans ASIC RTL microarchitecture design, IP verification, gate-level simulation, power analysis, ATE-based silicon validation, and high-speed MIPI compliance testing for display driver ICs. I have worked across the development cycle from RTL implementation and verification to post-silicon validation, covering key DDIC blocks such as brightness control, OTP memory control, display datapath logic, source data latch control, analog IP control, and automotive safety-related IPs.
 
-Brightness Control IP — Designed and verified a LUT-based brightness control engine for DDIC ASICs, including pixel-to-voltage conversion with brightness/temperature adaptation, spatial/temporal dithering, APL (Average Pixel Level) and peak pixel computation, and gamma contrast/offset control. Implemented glitch-free clock multiplexing and an SRAM controller for LUT storage, and developed Python/Excel reference models to cross-check randomized register configurations against RTL simulation results.
-OTP (One-Time Programmable) Memory Controller IP — Designed and verified program/load controllers for non-volatile memory operation, validating voltage sequencing and timing across voltage and temperature corners. Performed ATE-based silicon validation using checkerboard and inverse-checkerboard patterns to evaluate program/read reliability.
-Automotive Safety IP — Designed safety-monitoring RTL for a cascade-chip, ARM Cortex-M3–based TDDI product, detecting abnormal operating conditions and generating interrupts for firmware-level handling. Also implemented basic firmware-side interrupt handling for validation.
-Analog IP Control Logic — Developed RTL control logic for analog IPs with configurable line- and frame-based amplifier switching modes.
-Power Optimization & Analysis — Applied computation restructuring and XOR gating for power optimization, performed Synopsys PrimeTime PX power analysis, and correlated RTL-level estimates with wafer-level and bench-level power measurements.
-Full-Chip Verification & Silicon Validation — Performed end-to-end RTL verification across the full DDIC datapath using CRC-based checking. Collaborated with system, test, physical implementation, and interface teams on silicon bring-up, MIPI CTS compliance testing, current measurement, HTOL (High Temperature Operating Life) reliability testing, and multi-clock-domain timing analysis.
-Source Data Latch Controller — Designed and verified RTL control logic for source data latch operation, controlling the storage and transfer of pixel data before delivery to the display panel.
+- **Brightness Control IP** — Designed and verified a LUT-based brightness control engine for DDIC ASICs, including pixel-to-voltage conversion with brightness/temperature adaptation, spatial/temporal dithering, APL (Average Pixel Level) and peak pixel computation, and gamma contrast/offset control. Implemented glitch-free clock multiplexing and an SRAM controller for LUT storage, and developed Python/Excel reference models to cross-check RTL simulation results.
+
+- **OTP (One-Time Programmable) Memory Controller IP** — Designed and verified program/load controllers for non-volatile memory operation. Validated voltage sequencing and programming timing across voltage and temperature corners, and performed ATE-based silicon validation using checkerboard and inverse-checkerboard patterns.
+
+- **Automotive Safety IP** — Designed RTL for safety-monitoring logic in an ARM Cortex-M3–based automotive TDDI product, detecting abnormal operating conditions and generating interrupts for firmware handling. Also implemented basic firmware interrupt handling for validation.
+
+- **Analog IP Control Logic** — Developed RTL control logic for analog IPs with configurable line- and frame-based amplifier switching modes.
+
+- **Source Data Latch Controller** — Designed and verified RTL control logic responsible for storing and transferring pixel data to the display panel.
+
+- **Power Analysis & Optimization** — Performed Synopsys PrimeTime PX power analysis, applied RTL-level optimizations including computation restructuring and XOR gating, and correlated estimated power with wafer-level and bench measurements.
+
+- **Full-Chip Verification & Silicon Validation** — Performed end-to-end RTL verification across the DDIC datapath using CRC-based checking. Collaborated with system, test, physical implementation, and interface teams on silicon bring-up, MIPI CTS compliance testing, current measurement, HTOL (High Temperature Operating Life) reliability testing, and multi-clock-domain timing analysis.
 ---
 
 <h2>🔬 Internship Experience</h2>
