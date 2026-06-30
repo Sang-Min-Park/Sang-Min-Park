@@ -22,7 +22,7 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 - Computer architecture for AI and data-centric workloads
 - AI accelerators and domain-specific computing
 - Hardware–software co-design for performance and energy efficiency
-- Design space exploration and architecture evaluation frameworks
+- Design space exploration and architecture evaluation
 - NoC, memory hierarchy, and data movement optimization
 - FPGA/HLS-based accelerator design and prototyping
 
