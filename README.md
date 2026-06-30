@@ -49,7 +49,7 @@ My industry background spans RTL microarchitecture design, IP verification, gate
 
 - **Graduate School of Convergence Science and Technology, Seoul National University — Research Intern**  
   *(Jan 2021 – Feb 2021)*  
-  Studied electronic circuit design and designed a two-stage operational amplifier using HSPICE.
+  Designed a two-stage CMOS operational amplifier in HSPICE based on analog electronic circuit design fundamentals.
 
 ---
 
