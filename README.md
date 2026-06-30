@@ -28,7 +28,9 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 
 ---
 
-<h2>🏗 Highlighted Hardware Projects</h2>
+<h2>🏗 Professional Hardware Projects</h2>
+
+My industry background spans RTL microarchitecture design, IP verification, gate-level simulation, power analysis, ATE-based silicon validation, and high-speed MIPI compliance testing for display driver ICs. I have designed and verified key DDIC blocks including brightness control, OTP memory control, full display datapath logic, source data latch control, and automotive safety-related IPs.
 
 - **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with brightness/temperature adaptation and Contrast/Offset/Dither/APL (Average Pixel Level)/Peak features for DDIC ASICs; developed Python reference models and cross-checked RTL behavior against model outputs
 
@@ -40,8 +42,7 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 
 - **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed Synopsys PrimeTime PX power analysis, and correlated RTL-level estimates with wafer-level and bench-level power measurements
 
-- **System-Level Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath using CRC-based checking, and collaborated with system, test, and interface teams on silicon bring-up, MIPI high-speed data interface compliance testing, current measurement, and HTOL (Hot Temperature Operation Life) reliability testing
-
+- **Full-Chip Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath using CRC-based checking, and collaborated with system, test, and interface teams on silicon bring-up, MIPI high-speed data interface compliance testing, current measurement, and HTOL (Hot Temperature Operation Life) reliability testing
 ---
 
 <h2>🔬 Internship Experience</h2>
