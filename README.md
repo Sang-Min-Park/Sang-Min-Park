@@ -92,7 +92,7 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 - Algorithms (A)  
 - Artificial Intelligence (A+)
 - Basic Computer Programming (A)
-- Design Projects (Capstone Design) (A+) 
+- Design Projects (Capstone Design) (A+) — Implemented a LeNet-based CNN in Verilog and verified its functionality on FPGA
 
 ---
 
