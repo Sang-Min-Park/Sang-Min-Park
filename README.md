@@ -30,18 +30,17 @@ Building on ASIC RTL implementation experience to explore computer architecture,
 
 <h2>🏗 Highlighted Hardware Projects</h2>
 
-- **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with brightness/temperature adaptation and Contrast/Offset/Dither/APL/Peak features for DDIC ASICs; developed Python reference models and cross-checked RTL behavior against model outputs
+- **Brightness Control IP** — Designed and verified LUT-based pixel-to-voltage conversion with brightness/temperature adaptation and Contrast/Offset/Dither/APL (Average Pixel Level)/Peak features for DDIC ASICs; developed Python reference models and cross-checked RTL behavior against model outputs
 
-- **OTP Memory Controller IP** — Implemented program/load control for reliable NVM operation and validated functionality across multiple operating corners through ATE vector testing and silicon bring-up
+- **OTP (One-Time Programmable) Memory Controller IP** — Implemented program/load control for reliable NVM operation and validated functionality across multiple operating corners through ATE vector testing and silicon bring-up
 
 - **Automotive Safety IP** — Designed safety-monitoring RTL for a cascade-chip, ARM Cortex-M3–based TDDI product, detecting abnormal conditions and generating interrupts for firmware-level handling; also implemented basic firmware-side interrupt handling for validation
 
 - **Analog IP Control Logic** — Developed RTL control logic for analog IPs with configurable line- and frame-based amplifier switching modes
 
-- **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed PTPX-based power analysis, and correlated RTL-level estimates with wafer-level and bench-level power measurements
+- **Power Optimization & Analysis** — Applied computation restructuring and XOR gating, performed Synopsys PrimeTime PX power analysis, and correlated RTL-level estimates with wafer-level and bench-level power measurements
 
-- **System-Level Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath and collaborated with system, test, and physical design teams on silicon bring-up, MIPI high-speed data interface CTS compliance testing, current measurement, HTOL reliability verification, and final product qualification
-추가로 생각해볼 만한 개선점
+- **System-Level Verification & Silicon Validation** — Performed end-to-end RTL verification across the full DDIC datapath using CRC-based checking, and collaborated with system, test, and physical design teams on silicon bring-up, MIPI high-speed data interface compliance testing, current measurement, and HTOL (Hot Temperature Operation Life) reliability verification
 ---
 
 <h2>🔬 Internship Experience</h2>
